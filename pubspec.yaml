@@ -1,7 +1,7 @@
 name: globalstore
 description: State manager for flutter
-version: 1.0.4
-homepage: https://github.com/khalilelghoul01/khalilelghoul01
+version: 1.0.6
+homepage: https://github.com/khalilelghoul01/Global-Store
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 
